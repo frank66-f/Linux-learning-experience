@@ -1,5 +1,5 @@
 baseURL = "https://frank66-f.github.io/Linux-learning-experience/"
-languageCode = "zh-cn"
+locale = "zh-cn"
 title = "我的个人博客"
 theme = "PaperMod"
 
